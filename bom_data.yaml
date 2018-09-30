@@ -1,0 +1,43 @@
+# Bill of Materials Data for make_workbench_v2
+components:
+  theTop:
+    options:
+    - top
+    default_option: 0
+    quantity: 1
+    quantity_units: count
+    name: Top
+    notes: ''
+    
+  theLegs:
+    options:
+    - leg_unit
+    default_option: 0
+    quantity: 2
+    quantity_units: count
+    name: Leg Unit
+    notes: ''
+    
+  theShelf:
+    options:
+    - shelf
+    default_option: 0
+    quantity: 1
+    quantity_units: count
+    name: Shelf
+    notes: ''
+    
+  screws:
+    options:
+    - common_no6_1.5in_coarse_drywall_screws
+    default_option: 0
+    quantity: 12
+    quantity_units: count
+    name: Drywall Screws
+    notes: ''
+
+order:
+- theTop
+- theLegs
+- theShelf
+- screws

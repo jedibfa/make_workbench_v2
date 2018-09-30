@@ -1,0 +1,13 @@
+# Bill of Materials Data for make_workbench_v2 - top - B
+components:
+  plywoodSheet:
+    options:
+    - lumber_common_1x4
+    default_option: 0
+    quantity: 36
+    quantity_units: 'in'
+    name: '1x4'
+    notes: ''
+
+order:
+- lumber_common_1x4

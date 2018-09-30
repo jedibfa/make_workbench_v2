@@ -1,0 +1,9 @@
+{
+  "name": "A",
+  "version": "1.0.0",
+  "description": "36in x 48in x 0.5in Plywood Sheet",
+  "license": "Unlicense",
+  "dependencies": {
+    "lumber_0.5in_plywood": "github:jedibfa/lumber_0.5in_plywood"
+  }
+}

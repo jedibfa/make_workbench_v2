@@ -1,0 +1,43 @@
+# Bill of Materials Data for make_workbench_v2 - top
+components:
+  compA:
+    options:
+    - A
+    default_option: 0
+    quantity: 1
+    quantity_units: count
+    name: A
+    notes: ''
+    
+  compB:
+    options:
+    - B
+    default_option: 0
+    quantity: 2
+    quantity_units: count
+    name: B
+    notes: ''
+    
+  compC:
+    options:
+    - C
+    default_option: 0
+    quantity: 3
+    quantity_units: count
+    name: C
+    notes: ''
+    
+  compD:
+    options:
+    - D
+    default_option: 0
+    quantity: 2
+    quantity_units: count
+    name: D
+    notes: ''
+
+order:
+- compA
+- compB
+- compC
+- compD

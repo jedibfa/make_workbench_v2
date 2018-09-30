@@ -2,5 +2,5 @@
   "name": "make_workbench_v2",
   "version": "1.0.0",
   "description": "Revised version of workbenches from Make magazine issue 23.",
-  { "license" : "Unlicense" }
+  "license" : "Unlicense"
 }

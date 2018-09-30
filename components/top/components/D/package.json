@@ -1,0 +1,9 @@
+{
+  "name": "D",
+  "version": "1.0.0",
+  "description": "41in 1x4",
+  "license": "Unlicense",
+  "dependencies": {
+    "lumber_common_1x4": "github:jedibfa/lumber_common_1x4"
+  }
+}

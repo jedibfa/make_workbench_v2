@@ -1,0 +1,13 @@
+# Bill of Materials Data for make_workbench_v2 - top - A
+components:
+  plywoodSheet:
+    options:
+    - lumber_0.5in_plywood
+    default_option: 0
+    quantity: 1728
+    quantity_units: 'in^2'
+    name: '0.5in plywood sheet'
+    notes: ''
+
+order:
+- plywoodSheet
